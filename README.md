@@ -1,3 +1,3 @@
-# Deefend-the-Hex
+# Defend-the-Hex
 
 Android game
